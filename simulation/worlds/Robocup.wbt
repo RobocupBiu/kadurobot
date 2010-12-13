@@ -1,4 +1,5 @@
 #VRML_SIM V6.0 utf8
+#VRML_SIM V6.0 utf8
 WorldInfo {
   info [
     "This is a model of a Kondo KHR-2HV robot executing movement files."
